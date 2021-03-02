@@ -22,19 +22,19 @@
     "url": "https://vncdn.vn/",
     "icon": "https://favicons.githubusercontent.com/vncdn.vn",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1199,
-    "timeDay": 1199,
-    "timeWeek": 1199,
-    "timeMonth": 1199,
-    "timeYear": 1199,
+    "status": "up",
+    "uptime": "98.10%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.10%",
+    "time": 1187,
+    "timeDay": 1187,
+    "timeWeek": 1187,
+    "timeMonth": 1187,
+    "timeYear": 1187,
     "dailyMinutesDown": {
-      "2021-03-02": 0
+      "2021-03-02": 5
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-02": 240
+      "2021-03-02": 245
     }
   }
 ]
