@@ -12,8 +12,6 @@ sites:
     url: https://vnis.vn/
   - name: matbao
     url: https://www.matbao.net/
-  - name: TCP ping
-    url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
