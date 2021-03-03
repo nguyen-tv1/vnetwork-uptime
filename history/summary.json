@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3105,
-    "timeDay": 3105,
-    "timeWeek": 3105,
-    "timeMonth": 3105,
-    "timeYear": 3105,
+    "time": 3108,
+    "timeDay": 3108,
+    "timeWeek": 3108,
+    "timeMonth": 3108,
+    "timeYear": 3108,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/vncdn.vn",
     "slug": "cdn",
     "status": "up",
-    "uptime": "98.10%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "98.10%",
-    "time": 1187,
-    "timeDay": 1187,
-    "timeWeek": 1187,
-    "timeMonth": 1187,
-    "timeYear": 1187,
-    "dailyMinutesDown": {
-      "2021-03-02": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1221,
+    "timeDay": 1221,
+    "timeWeek": 1221,
+    "timeMonth": 1221,
+    "timeYear": 1221,
+    "dailyMinutesDown": {}
   },
   {
     "name": "vnis",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1684,
-    "timeDay": 1684,
-    "timeWeek": 1684,
-    "timeMonth": 1684,
-    "timeYear": 1684,
+    "time": 1598,
+    "timeDay": 1598,
+    "timeWeek": 1598,
+    "timeMonth": 1598,
+    "timeYear": 1598,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/www.matbao.net",
     "slug": "matbao",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-02": 245
+      "2021-03-03": 37,
+      "2021-03-02": 982
     }
   }
 ]
