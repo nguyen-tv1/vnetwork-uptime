@@ -10,6 +10,8 @@ sites:
     url: https://vncdn.vn/
   - name: vnis
     url: https://vnis.vn/
+  - name: matbao
+    url: https://www.matbao.net/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
