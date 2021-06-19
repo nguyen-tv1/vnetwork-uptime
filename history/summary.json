@@ -4,10 +4,10 @@
     "url": "https://vnetwork.vn",
     "icon": "https://favicons.githubusercontent.com/vnetwork.vn",
     "slug": "vnetwork",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1927,
@@ -15,17 +15,19 @@
     "timeWeek": 1505,
     "timeMonth": 1521,
     "timeYear": 1927,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-19": 1
+    }
   },
   {
     "name": "CDN",
     "url": "https://vncdn.vn/",
     "icon": "https://favicons.githubusercontent.com/vncdn.vn",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1444,
@@ -33,16 +35,18 @@
     "timeWeek": 1411,
     "timeMonth": 1316,
     "timeYear": 1444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-19": 1
+    }
   },
   {
     "name": "vnis",
     "url": "https://vnis.vn/",
     "icon": "https://favicons.githubusercontent.com/vnis.vn",
     "slug": "vnis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.88%",
@@ -52,6 +56,7 @@
     "timeMonth": 1563,
     "timeYear": 1486,
     "dailyMinutesDown": {
+      "2021-06-19": 0,
       "2021-06-09": 24,
       "2021-06-08": 28,
       "2021-06-07": 93,
